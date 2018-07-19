@@ -1,6 +1,9 @@
 ;<?php die(''); ?>
 ;for security reasons , don't remove or modify the first line
 
+;Hide system properties from web administration, default : 0 (show all)
+;hideSensitiveServicesProperties=1
+
 ;Services
 ;list the different map services (servers, generic parameters, etc.)
 [services]
