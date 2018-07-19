@@ -128,7 +128,7 @@ notice=file
 ;deprecated=syslog
 strict=file
 ;sql=syslog
-metric=syslog
+;metric=syslog
 auth=
 
 [fileLogger]
